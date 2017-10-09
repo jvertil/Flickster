@@ -33,7 +33,7 @@ The following **additional** features are implemented:
 Here's a walkthrough of implemented user stories:
 
 [Video Walkthrough](http://recordit.co/hlSgTH5q1p)
-GIF created with [RecordIt](http://recordit.co/).
+ created with [RecordIt](http://recordit.co/).
 
 ## Notes
 The biggest challenge was the implementation of the detailed page, namely playing the trailer with YouTubePlayerView. 
